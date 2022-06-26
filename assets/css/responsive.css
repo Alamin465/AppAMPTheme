@@ -1,0 +1,414 @@
+@media (max-width:575.98px) {
+    /*menu part start-----------------*/
+    .primary-menu {
+        display: none;
+    }
+    .header-button {
+        display: none;
+    }
+    .collaps-btn {
+        display: block;
+    }
+    /*menu part end-----------------------------------*/
+    /*hero bottom part-------------------------------*/
+    .hero-bottom-video {
+        width: 98%;
+        margin-bottom: 40px;
+
+    }
+    .hero-bottom-content {
+        width: 98%;
+    }
+    .hero-bottom-content h4 {
+        font-size: 30px;
+    }
+    .hero-bottom-content p {
+        line-height: 26px;
+    }
+    /*hero bottom end--------------------------------*/
+     /*service part--------------------------------------*/
+     .service-title h1 {
+        font-size: 33px;
+    }
+    .service-title p {
+        font-size: 19px;
+    }
+    .service-items {
+        width: 45.33%;
+        height: 130px;
+    }
+    .service-con h3{
+        margin-bottom: 18px;
+        font-size: 14px;
+    }
+    .service-con p {
+        font-size: 14px;
+    }
+    /*service part end---------------------------------------------*/
+     /*pricing part -----------------------------------------------*/
+     .pricing-title h2 {
+        font-size: 42px;
+     }
+     .pricing-title h4 {
+        font-size: 17px;
+        font-weight: 100;
+    }
+     .pricing-table-items  {
+        gap: 2%;
+        width: 87.33%;
+        margin-bottom: 15px;
+    }
+    /*pricing part end-------------------------------------------*/
+    /*team part---------------------------------*/
+    .team-title h2 {
+        font-size: 32px;
+    }
+    .team-members {
+        width: 44%;
+        margin: 10px;
+    }
+    .team-members .team-member-bio h4 {
+        font-size: 23px;
+    }
+    .team-members .team-member-bio p {
+        font-size: 20px;
+    }
+    /*team part end----------------------------*/
+     /*news letter part-------------------------*/
+     .news-letter-title h2 {
+        font-size: 44px;
+    }
+    /*news letter part---------------------------*/
+    /*blog part start-------------------------*/
+    .blog-items {
+        width: 99%;
+        margin: 10px;
+    }
+    .blog-hading h1 {
+        font-size: 41px;
+    }
+    .blog-para p {
+        font-size: 15px;
+    }
+    .blog-post-bio h3 {
+        font-size: 20px;
+    }
+    .blog-post-bio p{
+        font-size: 12px;
+    }
+    
+    /*blog part end-----------------------------*/
+    /*testimonial part start---------------------*/
+    .testimonial-title h3 {
+        font-size: 28px;
+    }
+    .testimonial-con {
+        height: 141px;
+    }
+    .testimonial-items p {
+        padding: 10px;
+        font-size: 15px;
+    }
+    .testi-user-bio h5 {
+        font-size: 12px;
+    }
+    .testi-user-bio p {
+        font-size: 11px;
+    }
+    /*testimonial part end---------------------*/
+    /*contact part start-----------------------*/
+.contact-con-main {
+    gap: 3%;
+}
+
+/*contact contt forn end-----------------------------*/
+/*contact part start-----------------------*/
+.contact-con-main {
+    gap: 3%;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.contact-map {
+    width: 99.5%;
+}
+.contact-items {
+    width: 99.5%;
+}
+
+/*contact contt forn end-----------------------------*/
+
+    
+}
+@media (min-width:576px) and (max-width:767.98px) {
+    /*menu part start-----------------*/
+    .primary-menu {
+        display: none;
+    }
+    .header-button {
+        display: none;
+    }
+    .collaps-btn {
+        display: block;
+    }
+    /*menu part end-----------------------------------*/
+    /*hero bottom part-------------------------------*/
+    .hero-bottom-video {
+        width: 98%;
+        margin-bottom: 40px;
+
+    }
+    .hero-bottom-content {
+        width: 98%;
+    }
+    .hero-bottom-content h4 {
+        font-size: 30px;
+    }
+    .hero-bottom-content p {
+        line-height: 26px;
+    }
+    /*hero bottom end--------------------------------*/
+     /*service part--------------------------------------*/
+     .service-title h1 {
+        font-size: 33px;
+    }
+    .service-title p {
+        font-size: 19px;
+    }
+    .service-items {
+        width: 45.33%;
+        height: 130px;
+    }
+    .service-con h3{
+        margin-bottom: 18px;
+        font-size: 14px;
+    }
+    .service-con p {
+        font-size: 14px;
+    }
+    /*service part end---------------------------------------------*/
+     /*pricing part -----------------------------------------------*/
+     .pricing-title h2 {
+        font-size: 42px;
+     }
+     .pricing-title h4 {
+        font-size: 17px;
+        font-weight: 100;
+    }
+     .pricing-table-items  {
+        gap: 2%;
+        width: 87.33%;
+        margin-bottom: 15px;
+    }
+    /*pricing part end-------------------------------------------*/
+    /*team part---------------------------------*/
+    .team-title h2 {
+        font-size: 32px;
+    }
+    .team-members {
+        width: 44%;
+        margin: 10px;
+    }
+    .team-members .team-member-bio h4 {
+        font-size: 23px;
+    }
+    .team-members .team-member-bio p {
+        font-size: 20px;
+    }
+    /*team part end----------------------------*/
+     /*news letter part-------------------------*/
+     .news-letter-title h2 {
+        font-size: 44px;
+    }
+    /*news letter part---------------------------*/
+    /*blog part start-------------------------*/
+    .blog-items {
+        width: 99%;
+        margin: 10px;
+    }
+    .blog-hading h1 {
+        font-size: 41px;
+    }
+    .blog-para p {
+        font-size: 15px;
+    }
+    .blog-post-bio h3 {
+        font-size: 20px;
+    }
+    .blog-post-bio p{
+        font-size: 12px;
+    }
+    
+    /*blog part end-----------------------------*/
+    /*testimonial part start---------------------*/
+    .testimonial-title h3 {
+        font-size: 28px;
+    }
+    .testimonial-con {
+        height: 141px;
+    }
+    .testimonial-items p {
+        padding: 10px;
+        font-size: 15px;
+    }
+    .testi-user-bio h5 {
+        font-size: 12px;
+    }
+    .testi-user-bio p {
+        font-size: 11px;
+    }
+    /*testimonial part end---------------------*/
+    /*contact part start-----------------------*/
+.contact-con-main {
+    gap: 3%;
+}
+
+/*contact contt forn end-----------------------------*/
+/*contact part start-----------------------*/
+.contact-con-main {
+    gap: 3%;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.contact-map {
+    width: 99.5%;
+}
+.contact-items {
+    width: 99.5%;
+}
+
+/*contact contt forn end-----------------------------*/
+
+    
+}
+@media (min-width:768px) and (max-width:991.98px) {
+    /*menu part start----------------------*/
+    .primary-menu {
+        display: none;
+    }
+    .header-button {
+        display: none;
+    }
+    .collaps-btn {
+        display: block;
+    }
+    /*menu part end-------------------------------*/
+    /*hero bottom part-------------------------------*/
+    .hero-bottom-video {
+        width: 46%;
+    }
+    .hero-bottom-content h4 {
+        font-size: 30px;
+    }
+    .hero-bottom-content p {
+        line-height: 26px;
+    }
+    /*hero bottom end--------------------------------*/
+    /*service part--------------------------------------*/
+    .service-title h1 {
+        font-size: 44px;
+    }
+    .service-items {
+        width: 46%;
+    }
+    .service-con h3{
+        font-size: 24px;
+    }
+    .service-con p {
+        font-size: 22px;
+    }
+    /*service part end---------------------------------*/
+
+    /*pricing part -----------------------------------------------*/
+    .pricing-table-items  {
+        gap: 2%;
+        width: 87.33%;
+        margin-bottom: 15px;
+    }
+    /*pricing part end-------------------------------------------*/
+    /*team part---------------------------------*/
+    .team-title h2 {
+        font-size: 40px;
+    }
+    .team-members {
+        width: 45%;
+        margin: 10px;
+    }
+    .team-members .team-member-bio h4 {
+        font-size: 18px;
+    }
+    .team-members .team-member-bio p {
+        font-size: 14px;
+    }
+    /*team part end----------------------------*/
+    /*news letter part-------------------------*/
+    .news-letter-title h2 {
+        font-size: 50px;
+    }
+    /*news letter part---------------------------*/
+    /*blog part start-------------------------*/
+    .blog-hading h1 {
+        font-size: 41px;
+    }
+    .blog-para p {
+        font-size: 16px;
+    }
+    .blog-post-bio h3 {
+        font-size: 18px;
+    }
+    .blog-post-bio p{
+        font-size: 11px;
+    }
+    
+    /*blog part end-----------------------------*/
+    /*testimonial part start---------------------*/
+    .testimonial-items p {
+        font-size: 16px;
+    }
+    /*testimonial part end---------------------*/
+}
+@media (min-width:992px) and (max-width:1199.98px) {
+    /*menu part start-----------------------------*/
+    .primary-menu {
+        margin: 0px;
+    }
+    /*menu part end---------------------------------*/
+/*hero-bottom part-------------------------------*/
+.hero-bottom-content h4{
+    font-size: 35px;
+}
+.hero-bottom-content p {
+    font-size: 16px;
+}
+/*hero-bottom part end-------------------------------*/
+/*service strart---------------------------*/
+.service-content-main{
+    gap:28px;
+}
+/*service end----------------------------*/
+/*testi part---------------------------------------------*/
+.testimonial-con p{
+    font-size: 20px;
+}
+/*testi part end---------------------------------------*/
+/*contact part start-----------------------*/
+.contact-con-main {
+    gap: 3%;
+}
+
+/*contact contt forn end-----------------------------*/
+}
+@media (min-width:1200px) and (max-width:1399.98px) {
+/*Contact content form start---------------------------*/
+/*service strart---------------------------*/
+.service-content-main{
+    gap:35px;
+}
+/*service end----------------------------*/
+.contact-con-main {
+    gap:3%;
+}
+
+/*contact content forn end-----------------------------*/
+}
+/*My monitor desing------------------------------------*/
+@media (min-width:1400px) {}
